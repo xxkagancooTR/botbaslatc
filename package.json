@@ -1,0 +1,32 @@
+{
+  "name": "ayn",
+  "version": "0.0.1",
+  "description": "by efe.",
+  "main": "corona.js",
+  "scripts": {
+    "start": "node corona.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "cron": "^1.8.2",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.5.2",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
